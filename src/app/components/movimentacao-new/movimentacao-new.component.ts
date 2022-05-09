@@ -35,6 +35,7 @@ export class MovimentacaoNewComponent implements OnInit {
           console.log(error);
         });
   }
+  
   // criando o método para ser chamado na tela e assim incluir a movimentação
 
 save(): void {
